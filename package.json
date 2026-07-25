@@ -1,0 +1,13 @@
+{
+  "name": "balnex-kitchen",
+  "version": "1.0.0",
+  "description": "Balnex Kitchen Web Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
